@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "jwtSecret": "vyacheslav mern course", 
+    "mongoUri": "mongodb+srv://Vyacheslav:09918002gvs@cluster0.ndo2b.mongodb.net/app?retryWrites=true&w=majority"
+}
